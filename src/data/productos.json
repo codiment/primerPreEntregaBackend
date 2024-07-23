@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A high performance laptop.",
+    "price": 1200.99,
+    "category": "Electronics",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "A latest model smartphone.",
+    "price": 999.99,
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear headphones.",
+    "price": 199.99,
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "A smartwatch with various health features.",
+    "price": 299.99,
+    "category": "Wearables",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "name": "Electric Toothbrush",
+    "description": "An advanced electric toothbrush with multiple modes.",
+    "price": 89.99,
+    "category": "Health",
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "name": "Gaming Console",
+    "description": "A next-gen gaming console.",
+    "price": 499.99,
+    "category": "Gaming",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "name": "4K Television",
+    "description": "A 55-inch 4K Ultra HD Smart TV.",
+    "price": 799.99,
+    "category": "Electronics",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "name": "Blender",
+    "description": "A powerful kitchen blender with multiple speeds.",
+    "price": 59.99,
+    "category": "Home Appliances",
+    "stock": 40
+  },
+  {
+    "id": 9,
+    "name": "Air Fryer",
+    "description": "A digital air fryer with touch controls.",
+    "price": 129.99,
+    "category": "Home Appliances",
+    "stock": 35
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat",
+    "description": "A non-slip yoga mat with extra cushioning.",
+    "price": 29.99,
+    "category": "Fitness",
+    "stock": 60
+  }
+]
